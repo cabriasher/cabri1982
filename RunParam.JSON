@@ -1,0 +1,8 @@
+{
+  "browser": "chrome",
+  "url": "https://automationexercise.com/",
+  "url_for_subscription": "https://automationexercise.com/",
+  "url_for_view cart": "https://automationexercise.com/view_cart",
+  "url_form_SIGNUP/LOGIN": "https://automationexercise.com/login",
+  "url_invoice downlaod": "https://automationexercise.com/payment_done/1900",
+}
