@@ -1,0 +1,7 @@
+{
+  "url" : "https://automationexercise.com",
+  "browserType" : "Edge",
+  "excelFilePath" : "testData.xlsx",
+  "excelSheet" : "Sheet1",
+  "headless" : "false"
+}
